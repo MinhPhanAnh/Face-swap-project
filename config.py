@@ -11,5 +11,5 @@ DET_SIZE = (640, 640)
 PROVIDERS = ['CPUExecutionProvider']
 
 # Model faceswap
-INSWAPPER_MODEL_PATH = "models/inswapper_128.onnx"
+INSWAPPER_MODEL_PATH = "path_to_your_faceswap_model"
 INSWAPPER_DOWNLOAD = True
